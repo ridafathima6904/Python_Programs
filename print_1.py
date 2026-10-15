@@ -1,0 +1,32 @@
+# print("BME")
+# a=10
+# print(type(a))
+# a=10
+# b=1.5
+# c="m"
+# d="lion"
+# e=True
+# print(type(a))
+# print(type(b))
+# print(type(c))
+# print(type(d))
+# print(type(e))
+# name="lion"
+# print(name)
+# print(490)
+# print(490*2)
+# print("2+4")
+# print("madhu",59,"bme")
+# print("today")
+# print("")
+# print('holiday')
+# print("24","07","2005",sep="-")
+# print("python","java",sep=",")
+# print("dhana",end="")
+# print("lakshmi")
+# print("Lion\nTiger\nZebra")
+# x="dhana"
+# y="lakshmi"
+# print(x+y)
+# print(x+" "+y)
+
